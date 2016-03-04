@@ -12,3 +12,5 @@ ___
 1) **text_analysis.ipynb** is the notebook illustrating the text processing and modeling for this project.  
 2) **book_text-files** contain the text files for all 7 *Harry Potter* books.  
 3) **Webpage** contains the HTML file used to implement the [interactive webpage](https://rawgit.com/jmfradkin/Metis-Project-4-NLP-and-Clustering/master/webpage/interactive_page.html), json files required to implement the D3 network graphs, and images used on the webpage.
+
+The project presentation can be found [here](https://docs.google.com/presentation/d/1w3FLgShgEeYs4Pfsh3eGMbKdATi4X3oFDjbwe81jY8E/edit#slide=id.p4).
