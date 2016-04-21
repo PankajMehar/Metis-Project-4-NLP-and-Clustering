@@ -13,4 +13,4 @@ ___
 2) `book_text-files/` contain the text files for all 7 *Harry Potter* books.  
 3) `Webpage/` contains the HTML file used to implement the [interactive webpage](https://rawgit.com/jmfradkin/Metis-Project-4-NLP-and-Clustering/master/webpage/interactive_page.html), json files required to implement the D3 network graphs, and images used on the webpage.
 
-The project **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/03/04/metis-project-4-nlp-and-clustering-with-harry-potter-books/).
+The project **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/03/04/metis-project-4-nlp-and-clustering-with-harry-potter-books/). The project presentation can be found [here] (http://www.slideshare.net/JamieFradkin/metis-project-4-character-interactions-in-harry-potter-books).
